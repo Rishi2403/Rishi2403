@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to Rishi's zone
+<b>Thanks for visiting my space
 # 💫 About Me:
 🌱 I’m currently learning Data Science , AI and DSA<br>💬 Ask me about DSA<br>📫 How to reach me rishibhattasali@gmail.com
 
