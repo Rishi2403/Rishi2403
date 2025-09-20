@@ -53,9 +53,26 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rishi2403&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rishi2403&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi2403&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rishi2403&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi2403&theme=merko&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi2403&theme=merko&hide_border=false&count_private=true&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=Rishi2403&limit=10&theme=merko&combine_all_yearly_contributions=true" />
+    </td>
+  </tr>
+</table>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
